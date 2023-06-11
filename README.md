@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makesh-srinivasan&label=Profile%20views&color=0e75b6&style=flat" alt="makesh-srinivasan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makesh-srinivasan" alt="makesh-srinivasan" /></a> </p>
-
 - 📫 How to reach me **makesh.srinivasan2019@vitstudent.ac.in**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/makesh-srinivasan/](https://www.linkedin.com/in/makesh-srinivasan/)
