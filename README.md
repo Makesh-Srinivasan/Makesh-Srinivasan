@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makesh Srinivasan</h1>
-<h3 align="center">A CSE student who loves Computer Vision, Machine Learning and Deep Learning especially that are helpful to society :)</h3>
+<h3 align="center">A Machine Learning Engineer and a Computer Science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makesh-srinivasan&label=Profile%20views&color=0e75b6&style=flat" alt="makesh-srinivasan" /> </p>
 
