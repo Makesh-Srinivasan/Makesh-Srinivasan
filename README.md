@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makesh-srinivasan&label=Profile%20views&color=0e75b6&style=flat" alt="makesh-srinivasan" /> </p>
 
-- 📫 How to reach me **makesh.srinivasan2019@vitstudent.ac.in**
+- 📫 How to reach me **ms15138@nyu.edu**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/makesh-srinivasan/](https://www.linkedin.com/in/makesh-srinivasan/)
 
